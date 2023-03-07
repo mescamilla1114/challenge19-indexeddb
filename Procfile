@@ -1,3 +1,3 @@
 web: npm i
 web: npm run client
-web: node server/server.js
+web: npm run start
